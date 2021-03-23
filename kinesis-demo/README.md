@@ -59,7 +59,7 @@ Glue ETL
 Lab 3 
 =====
 
-(Lamnda + Kinesis)
+(Lambda + Kinesis)
 ------------------
 
 1. Open "Querying Amazon Customer Review Dataset"
